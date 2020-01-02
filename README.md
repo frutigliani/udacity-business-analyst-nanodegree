@@ -1,3 +1,3 @@
-# Udacity Business Analyst Nanodegree
+## Udacity Business Analyst Nanodegree
 
-Projects for Udacity Data Analyst Nanodegree Program
+Projects for Udacity Business Analyst Nanodegree Program
