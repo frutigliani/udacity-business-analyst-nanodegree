@@ -1,4 +1,4 @@
-##Project Overview
+## Project Overview
 
 The purpose of this project is to explore data from The Movie Database to draw out and display interesting patterns with Tableau dashboards and stories.
 
